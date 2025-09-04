@@ -1,4 +1,4 @@
-# Stock Portfolic
+# Stock Portfolio
  This is a portfolio allocation model
 
  Open and run the "run_application.ipynb"
@@ -10,6 +10,16 @@ For current Wallet Balance and net returns till now you can refer to "Money.csv"
 
 For Sharpe Ratio and Net Returns refer "Net_profit.csv"
 
-For Backtesting Performance refer to "backtesting.ipynb"
+For Back testing Performance refer to "Backtest_model.ipynb"
 
-For Backtested Returns and Sharpe Ratio refer to "backtest_results.csv"
+For Stocks chosen while back testing refer to "Backtesting_results.csv"
+
+
+Backtest Results for 2022 to 2024 :
+            Total Returns=243616.84
+            Total wallet money=253616.84
+
+After trading intraday for 3 hours :
+            Total Returns=15965.1$
+            Total wallet money=25965.1$
+            Sharpe Ratio=0.028958469365802198
